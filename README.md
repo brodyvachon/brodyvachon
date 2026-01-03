@@ -6,8 +6,6 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is react, javascript, tailwind, and mongodb for the backend. 
-
 Fun facts:
 
    • I'm a division 1 college hockey player
