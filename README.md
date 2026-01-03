@@ -11,7 +11,9 @@ My main tech stack is react, javascript, tailwind, and mongodb for the backend.
 Fun facts:
 
    • I'm a division 1 college hockey player
+   
    • I don't really like chocolate
+   
    • Hobbies: gym, building things, foodie
    
 
