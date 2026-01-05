@@ -12,7 +12,7 @@ Fun facts:
    
    • I don't really like chocolate
    
-   • Hobbies: gym, building things, foodie
+   • Hobbies: gym, wood working, foodie
    
 
 <!--
